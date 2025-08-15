@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "name": "WE Build With Bricks",
+    "bio": "Eco-minded and family-run LEGO reseller on BrickLink & Brick Owl. Where love for LEGO and family fun build a better brick shop.",
+    "avatar": "images/wbwb-high-resolution-logo-square.png",
+    "theme": "dark"
+  },
+  "sections": [
+    {
+      "title": "Our Stores",
+      "links": [
+        {
+          "title": "BrickLink",
+          "url": "https://store.bricklink.com/WBWB",
+          "description": "Our BrickLink store",
+          "icon": "🧱"
+        },
+        {
+          "title": "Brick Owl",
+          "url": "https://webuildwithbricks.brickowl.com",
+          "description": "Our Brick Owl store",
+          "icon": "🦉"
+        }
+      ]
+    },
+    {
+      "title": "Connect With Us",
+      "links": [
+        {
+          "title": "Instagram",
+          "url": "https://instagram.com/we_build_with_bricks",
+          "description": "Follow us on Instagram",
+          "icon": "📷"
+        },
+        {
+          "title": "Email",
+          "url": "mailto:contact@webuildwithbricks.com",
+          "description": "Send us an email",
+          "icon": "📧"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Affiliate Links",
+      "links": [
+        {
+          "title": "LEGO Creator Sets",
+          "url": "https://amazon.com/your-affiliate-link",
+          "description": "Creative building sets",
+          "icon": "📦"
+        },
+        {
+          "title": "LEGO Architecture",
+          "url": "https://amazon.com/your-affiliate-link",
+          "description": "Iconic buildings & landmarks",
+          "icon": "🏛️"
+        },
+        {
+          "title": "LEGO Technic",
+          "url": "https://amazon.com/your-affiliate-link",
+          "description": "Advanced building experience",
+          "icon": "⚙️"
+        },
+        {
+          "title": "Storage Solutions",
+          "url": "https://amazon.com/your-affiliate-link",
+          "description": "Organize your LEGO collection",
+          "icon": "📊"
+        }
+      ]
+    }
+  ]
+}
