@@ -110,6 +110,17 @@ body.dark {
     margin-left: 1rem;
 }
 
+.section-description {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+    font-weight: 400;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.4;
+}
+
 .section-links {
     margin-bottom: 1rem;
 }

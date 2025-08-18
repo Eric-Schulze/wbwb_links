@@ -57,7 +57,11 @@ function renderSections(sections) {
         // Create section header
         const sectionHeader = document.createElement('div');
         sectionHeader.className = 'section-header';
-        sectionHeader.innerHTML = `<h2>${escapeHtml(section.title)}</h2>`;
+        let headerContent = `<h2>${escapeHtml(section.title)}</h2>`;
+        if (section.description) {
+            headerContent += `<p class="section-description">${escapeHtml(section.description)}</p>`;
+        }
+        sectionHeader.innerHTML = headerContent;
         container.appendChild(sectionHeader);
         
         // Create section container

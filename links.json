@@ -8,6 +8,7 @@
   "sections": [
     {
       "title": "Our Stores",
+      "description": "Shop authentic LEGO sets and parts from our family-run stores on trusted marketplaces.",
       "links": [
         {
           "title": "BrickLink",
@@ -25,6 +26,7 @@
     },
     {
       "title": "Connect With Us",
+      "description": "Follow our LEGO journey and get in touch with our family team.",
       "links": [
         {
           "title": "Instagram",
@@ -42,30 +44,37 @@
     },
     {
       "title": "Amazon Affiliate Links",
+      "description": "As an Amazon Associate, we earn from qualifying purchases. These are LEGO products we recommend and use ourselves.",
       "links": [
         {
-          "title": "LEGO Creator Sets",
-          "url": "https://amazon.com/your-affiliate-link",
-          "description": "Creative building sets",
+          "title": "Iris Drawer Organizer - 64 Drawers",
+          "url": "https://www.amazon.com/dp/B07DFDS56H?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=659bb91f4409cb61a4c3aa3e6bd3e2e0&language=en_US&ref_=as_li_ss_tl",
+          "description": "This is our most-used set of drawers. It comes with 64 small drawers, perfect for organizing most LEGO pieces.",
           "icon": "📦"
         },
         {
-          "title": "LEGO Architecture",
-          "url": "https://amazon.com/your-affiliate-link",
-          "description": "Iconic buildings & landmarks",
-          "icon": "🏛️"
+          "title": "Iris Drawer Organizer - 44 Drawers",
+          "url": "https://www.amazon.com/dp/B07DFDS56H?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=659bb91f4409cb61a4c3aa3e6bd3e2e0&language=en_US&ref_=as_li_ss_tl",
+          "description": "This set of drawers comes with 32 small drawers and 12 larger drawers, perfect for organizing LEGO pieces.",
+          "icon": "📦"
         },
         {
-          "title": "LEGO Technic",
-          "url": "https://amazon.com/your-affiliate-link",
-          "description": "Advanced building experience",
-          "icon": "⚙️"
-        },
+          "title": "Binder Clips - Black",
+          "url": "https://www.amazon.com/dp/B00T8W2U2M?&linkCode=ll1&tag=webuildwithbr-20&linkId=5346331d60216d2769168df974b40124&language=en_US&ref_=as_li_ss_tl",
+          "description": "Clips that fit on the front handle of the Iris drawers. We use them to mark which drawers have room for more pieces.",
+          "icon": "📎"
+        }
+      ]
+    },
+    {
+      "title": "Sustainable Packaging",
+      "description": "We partner with EcoEnclose for eco-friendly packaging solutions. Support sustainable shipping practices.",
+      "links": [
         {
-          "title": "Storage Solutions",
-          "url": "https://amazon.com/your-affiliate-link",
-          "description": "Organize your LEGO collection",
-          "icon": "📊"
+          "title": "EcoEnclose",
+          "url": "http://refs.ecoenclose.com/pVt7mMPj?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjoyNDM0NDExNDYzfQ%3D%3D",
+          "description": "Sustainable packaging solutions.  Get a $20 coupon when you sign up with this link (and we will get one too!).",
+          "icon": "📦♻️"
         }
       ]
     }
