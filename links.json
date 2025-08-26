@@ -43,9 +43,33 @@
       ]
     },
     {
+      "title": "Sustainable Packaging",
+      "description": "We partner with EcoEnclose for eco-friendly packaging solutions. Support sustainable shipping practices.",
+      "links": [
+        {
+          "title": "EcoEnclose",
+          "url": "http://refs.ecoenclose.com/pVt7mMPj?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjoyNDM0NDExNDYzfQ%3D%3D",
+          "description": "Sustainable packaging solutions.  Get a $20 coupon when you sign up with this link (and we will get one too!).",
+          "icon": "📦♻️"
+        }
+      ]
+    },
+    {
       "title": "Amazon Affiliate Links",
       "description": "As an Amazon Associate, we earn from qualifying purchases. These are LEGO products we recommend and use ourselves.",
       "links": [
+        {
+          "title": "Bambu A1 3D Printer with AMS Filament Dispenser",
+          "url": "https://www.amazon.com/dp/B0CRYZWJLG?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=82a63b6f2c58905442627ab8bd42ca5b&language=en_US&ref_=as_li_ss_tl",
+          "description": "Our 3D printer of choice. We have been extremely happy with its performance and reliability. The AMS filament dispenser is a game changer for multicolor prints.",
+          "icon": "🖨️"
+        },
+        {
+          "title": "3D Printer Filament - Black",
+          "url": "https://www.amazon.com/dp/B0D4V4F923?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=7a9953dadaced3e1a3da2df4f9a67444&language=en_US&ref_=as_li_ss_tl",
+          "description": "This is the filament that we used to print all of the drawer dividers. It has held up very well and was easy to print with.",
+          "icon": "🖨️"
+        },
         {
           "title": "Iris Drawer Organizer - 64 Drawers",
           "url": "https://www.amazon.com/dp/B07DFDS56H?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=659bb91f4409cb61a4c3aa3e6bd3e2e0&language=en_US&ref_=as_li_ss_tl",
@@ -63,18 +87,84 @@
           "url": "https://www.amazon.com/dp/B00T8W2U2M?&linkCode=ll1&tag=webuildwithbr-20&linkId=5346331d60216d2769168df974b40124&language=en_US&ref_=as_li_ss_tl",
           "description": "Clips that fit on the front handle of the Iris drawers. We use them to mark which drawers have room for more pieces.",
           "icon": "📎"
-        }
-      ]
-    },
-    {
-      "title": "Sustainable Packaging",
-      "description": "We partner with EcoEnclose for eco-friendly packaging solutions. Support sustainable shipping practices.",
-      "links": [
+        },
         {
-          "title": "EcoEnclose",
-          "url": "http://refs.ecoenclose.com/pVt7mMPj?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjoyNDM0NDExNDYzfQ%3D%3D",
-          "description": "Sustainable packaging solutions.  Get a $20 coupon when you sign up with this link (and we will get one too!).",
-          "icon": "📦♻️"
+          "title": "Binder Clips - Gold",
+          "url": "https://www.amazon.com/dp/B09BP3RWCF?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=afbbc250bca2f2630048705953ba2650&language=en_US&ref_=as_li_ss_tl",
+          "description": "Clips that fit on the front handle of the Iris drawers. We use them to mark which drawers have room for more pieces.",
+          "icon": "📎"
+        },
+        {
+          "title": "Binder Clips - Silver",
+          "url": "https://www.amazon.com/dp/B09BP3GG1X?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=cdeabe59dd545a858fef244e97db32fa&language=en_US&ref_=as_li_ss_tl",
+          "description": "Clips that fit on the front handle of the Iris drawers. We use them to mark which drawers have room for more pieces.",
+          "icon": "📎"
+        },
+        {
+          "title": "Clear Organization Boxes",
+          "url": "https://www.amazon.com/dp/B07GBQ962G?&linkCode=ll1&tag=webuildwithbr-20&linkId=cdbca2bc5604f1892999e32c10835845&language=en_US&ref_=as_li_ss_tl",
+          "description": "Clear plastic boxes that our kids use to store and sort their Lego animals.",
+          "icon": "📦"
+        },
+        {
+          "title": "Clear Plastic Sorting Cups",
+          "url": "https://www.amazon.com/dp/B0CZDW6MGP?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=ed3b089dbf87bd53abb40cf8ee633a85&language=en_US&ref_=as_li_ss_tl",
+          "description": "Stackable cups that we use to sort LEGO pieces by color and type before putting them into our inventory.",
+          "icon": "🥛"
+        },
+        {
+          "title": "Large Trays",
+          "url": "https://www.amazon.com/dp/B00GBFXUT6?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=ef8d5004ef2588f82bc3147832eff104&language=en_US&ref_=as_li_ss_tl",
+          "description": "Large trays that we use for tranporting stacks of cups and for sorting Lego pieces.",
+          "icon": "📤"
+        },
+        {
+          "title": "Small Sorting Trays",
+          "url": "https://www.amazon.com/dp/B09X2W17RF?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=707e82b7fd779a1a83b044f2510ec852&language=en_US&ref_=as_li_ss_tl",
+          "description": "Smaller sorting trays that have a spout to pour out Lego pieces.",
+          "icon": "📤"
+        },
+        {
+          "title": "Sifting Sorter",
+          "url": "https://www.amazon.com/dp/B0CR9Q89JX?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=95ca0c0d921efb7882c3226062452541&language=en_US&ref_=as_li_ss_tl",
+          "description": "Sorting tower that sifts Lego pieces and sorts them by size.",
+          "icon": "🕵️"
+        },
+        {
+          "title": "Drying Rack",
+          "url": "https://www.amazon.com/dp/B07MGCGN5J?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=48fa1767769ae46a8236eadff7465d39&language=en_US&ref_=as_li_ss_tl",
+          "description": "We use a sweater drying rack with a fan pointed at it to dry our Lego pieces after washing them.",
+          "icon": "🧼"
+        },
+        {
+          "title": "Document Camera",
+          "url": "https://www.amazon.com/dp/B0C1BJR2R4?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=109026fb05c022a75219995d9bf44b33&language=en_US&ref_=as_li_ss_tl",
+          "description": "Camera that we use in conjunction with Lego recognition software to quickly identify, categorize, and inventory pieces.",
+          "icon": "📷"
+        },
+        {
+          "title": "Magnification Glasses with LED Lights and Multiple Lenes",
+          "url": "https://www.amazon.com/dp/B08QCX8PZR?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=fa18ed3ffae478649790c690c10f1e6b&language=en_US&ref_=as_li_ss_tl",
+          "description": "For those small Lego pieces that we are trying to make sure are genuine Lego brand.",
+          "icon": "🔍"
+        },
+        {
+          "title": "Magnifying Glass with LED Lights",
+          "url": "https://www.amazon.com/dp/B0DDNQ943S?&linkCode=ll1&tag=webuildwithbr-20&linkId=aa7d8f9cc35ff0255bc8ea9e7ca54abf&language=en_US&ref_=as_li_ss_tl",
+          "description": "Extremely useful for examining small Lego pieces when determining authenticity.",
+          "icon": "🔍"
+        },
+        {
+          "title": "Postal Scale",
+          "url": "https://www.amazon.com/dp/B01MT86A1I?&linkCode=ll1&tag=webuildwithbr-20&linkId=a32bcea3b003eddd7405357a2aec6795&language=en_US&ref_=as_li_ss_tl",
+          "description": "Digital scale that we use for accurately weighing outgoing packages and Lego pieces.",
+          "icon": "⚖️"
+        },
+        {
+          "title": "Thermal Label Printer",
+          "url": "https://www.amazon.com/dp/B0BRBY6888?th=1&linkCode=ll1&tag=webuildwithbr-20&linkId=a7d67d1bbfc0ca7ad3222d733ab08c85&language=en_US&ref_=as_li_ss_tl",
+          "description": "This printer has worked wonderfully with our recyclable labels from EcoEnclose.",
+          "icon": "🖨️"
         }
       ]
     }
