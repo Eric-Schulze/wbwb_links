@@ -43,6 +43,18 @@
       ]
     },
     {
+      "title": "My LEGO Creations",
+      "description": "Check out my custom LEGO builds and MOCs (My Own Creations) on Rebrickable.",
+      "links": [
+        {
+          "title": "Rebrickable MOCs",
+          "url": "https://rebrickable.com/users/WE_Build_With_Bricks/mocs/",
+          "description": "Browse my custom LEGO builds and instructions",
+          "icon": "🧱"
+        }
+      ]
+    },
+    {
       "title": "Sustainable Packaging",
       "description": "We partner with EcoEnclose for eco-friendly packaging solutions. Support sustainable shipping practices.",
       "links": [
